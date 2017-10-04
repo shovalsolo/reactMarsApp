@@ -1,5 +1,6 @@
 body {
-    color: rgb(255,255,255);
+    background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)),url("../assets/asteroidsclo.jpg") no-repeat center;
+    background-size: cover;
 }
 h2, h3, h4, h5 {
     text-align: center;
